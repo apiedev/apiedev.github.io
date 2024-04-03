@@ -41,6 +41,6 @@ While working at Meta, I was able to participate in an internal hackathon where 
 
 [Link to open-source repository.](https://github.com/mlavik1/UnityVolumeRendering)
 
-<img src="https://github.com/mlavik1/UnityVolumeRendering/blob/master/Screenshots/isosurface.gif" style="display: inline-block;" width="700" height="394" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
+<img src="/images/isosurface.gif" style="display: inline-block;" width="700" height="394" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
 
 Unfortunately, all hackathon work resides within the internal Meta systems and is proprietary Meta software.
