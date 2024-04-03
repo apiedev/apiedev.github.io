@@ -218,6 +218,10 @@ img {
   max-width: 100%;
 }
 
+.shields > p {
+  display: inline-flex;
+}
+
 p > img {
   text-align: center;
   display: inline-block;
