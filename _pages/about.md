@@ -6,4 +6,4 @@ permalink: /about/
 
 ## Resume
 
-You can download my latest resume ["here."](https://apie.dev/pdfs/resume.pdf)
+<iframe src="/pdfs/resume.pdf" width="500" height="700">
