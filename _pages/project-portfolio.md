@@ -4,6 +4,8 @@ title: Project Portfolio
 permalink: /project-portfolio/
 ---
 
+The following is a brief overview of my professional work. Click on each header for more detail.  
+
 ## Orcid Research
 
 ["Orcid ID: 0000-0002-0781-7959"](https://orcid.org/0000-0002-0781-7959)  
