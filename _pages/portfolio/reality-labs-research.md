@@ -35,8 +35,12 @@ The majority of the work I contributed to at RL-R involved devices briefly discu
 
 The first of the papers published that utilized this text-input SDK can be found [here.](https://dl.acm.org/doi/10.1145/3581641.3584072) Support for various text-input methods including swipe-typing, single-character input, and predictive dictionary suggestions were provided. The text-input decoding used various methods and language libraries; each method also being an option within the SDK.
 
-<link
-      rel="alternate"
-      type="application/json+oembed"
-      href="https://iframe.videodelivery.net/oembed?url=https%3A%2F%2Fiframe.videodelivery.net%2FeyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI4MzkyZjNiODlkZmM2Zjk5MzQwMTljZDhmZGE5Yjg4ZCIsImV4cCI6MTcxMjEzMTY4NCwia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.QrvFTLmpzgK1NRW7hoLphCS_bqwtH2Jurbk_e0W0G4-SmUhT-i2VO6reXaOcJ8whYAq3uIis9TJFWp-kUi-6GWT-ohuUbSMHLfjIQjwC63wcT76vnd69EdBY0EozthwKtcHQwz-cnk1QHi8qcsSaFeEAEhlU9_7e2-gWmQOmB-tNooQ7P08RoNL64a3eMLxBqWyUWrwnBC9KLI8MCZwfwim8Ptf7Pq2dqhAIAbDimCrTjzdnA2tmGrpUQ3J96fqNpDsoYeSIfhplyFcIf3QGVO_GEI8O-9xAC5FBmpQ-GX167P5YKr7DSBMt6R5IIvOUTwUV2wLtiHddV6IscwgOnA%3Fposter%3Dhttps%253A%252F%252Fvideodelivery.net%252FeyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI4MzkyZjNiODlkZmM2Zjk5MzQwMTljZDhmZGE5Yjg4ZCIsImV4cCI6MTcxMjEzMTY4NCwia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.QrvFTLmpzgK1NRW7hoLphCS_bqwtH2Jurbk_e0W0G4-SmUhT-i2VO6reXaOcJ8whYAq3uIis9TJFWp-kUi-6GWT-ohuUbSMHLfjIQjwC63wcT76vnd69EdBY0EozthwKtcHQwz-cnk1QHi8qcsSaFeEAEhlU9_7e2-gWmQOmB-tNooQ7P08RoNL64a3eMLxBqWyUWrwnBC9KLI8MCZwfwim8Ptf7Pq2dqhAIAbDimCrTjzdnA2tmGrpUQ3J96fqNpDsoYeSIfhplyFcIf3QGVO_GEI8O-9xAC5FBmpQ-GX167P5YKr7DSBMt6R5IIvOUTwUV2wLtiHddV6IscwgOnA%252Fthumbnails%252Fthumbnail.jpg%253Ftime%253D10.0s"
-    />
+### Hackathon: BrainVR
+
+While working at Meta, I was able to participate in an internal hackathon where I partnered with two researchers that came from medical backgrounds. With these two researchers we were able to build out an Oculus Pro AR application that was able to load MRI data and allow the user to visualize and manipulate the MRI data in a number of ways. The project was built mostly off an open source repository, and many other startups quickly integrated this library into their own health-tech systems.
+
+[Link to open-source repository.](https://github.com/mlavik1/UnityVolumeRendering)
+
+<img src="https://github.com/mlavik1/UnityVolumeRendering/blob/master/Screenshots/isosurface.gif">
+
+Unfortunately, all hackathon work resides within the internal Meta systems and is proprietary Meta software.
