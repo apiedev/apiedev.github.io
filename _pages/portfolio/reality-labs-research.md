@@ -4,10 +4,9 @@ title: Reality Labs Research
 permalink: /portfolio/reality-labs-research/
 ---
 
-<center>
+<center style="margin-bottom: 20px">
 <b>Location:</b> Redmond, WA<br>
 <b>Time Frame:</b> Sept 23, 2021 - Sept 23, 2023  
-<br>  
 </center>  
 
 <div class="shields" markdown=1>
