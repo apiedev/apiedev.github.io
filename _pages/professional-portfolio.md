@@ -4,7 +4,8 @@ title: Professional Portfolio
 permalink: /professional-portfolio/
 ---
 
-The following is a brief overview of my professional work. Click on each header for more detail.  
+A brief overview of my professional work. Click on each header for more detail.  
+To view my side-project portfolio, [click here.](https://apie.dev/project-portfolio)
 
 ### Orcid Research
 
