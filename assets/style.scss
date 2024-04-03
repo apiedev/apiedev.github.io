@@ -224,6 +224,10 @@ p > img {
   margin: 0 auto;
 }
 
+.shields {
+  margin: auto;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -273,7 +277,7 @@ p > img {
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
-    text-align: none;
+    text-align: center;
   }
 }
 
@@ -318,7 +322,7 @@ p > img {
   text-align: left;
 
   @include mobile {
-    text-align: none;
+    text-align: center;
   }
 }
 
@@ -635,7 +639,7 @@ Modules - reusable parts of our design
   overflow: hidden;
   max-width: 270px;
   border-radius: 4px;
-  text-align: none;
+  text-align: center;
   border: dashed 1px #e6e6e6;
   background-color: hsl(0, 0%, 98%);
   font-size: var(--font-size);
@@ -725,7 +729,7 @@ Modules - reusable parts of our design
 }
 
 .pagination {
-  text-align: none;
+  text-align: center;
 }
 
 @media only screen and (min-width: 320px) and (max-width: 759px) {
@@ -788,7 +792,7 @@ Modules - reusable parts of our design
 .tinyletterForm {
   border: 1px solid #ccc;
   padding: 3px;
-  text-align: none;
+  text-align: center;
   background: #ececec;
   margin: 8px;
   border-radius: 5px;
