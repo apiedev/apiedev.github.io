@@ -6,7 +6,7 @@ permalink: /portfolio/reality-labs-research/
 
 <center>
 <b>Location:</b> Redmond, WA<br>
-<b>Time Frame:</b> September 2021 - September 2023 
+<b>Time Frame:</b> Sept 23, 2021 - Sept 23, 2023 
 </center>
 
 <div class="shields" markdown=1 float=none>
