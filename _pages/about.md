@@ -6,4 +6,6 @@ permalink: /about/
 
 ## Resume
 
-<iframe src="/pdfs/resume.pdf" width="500" height="700">
+<div class="shields">
+    <iframe src="/pdfs/April24AlecPierceResume.pdf" width="500" height="700">
+</div>
