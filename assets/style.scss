@@ -173,7 +173,7 @@ span[data-pullquote]:before {
   font-size: 1.3em;
   font-style: italic;
   color: green;
-  text-align: center;
+  text-align: none;
 }
 
 a {
@@ -273,7 +273,7 @@ p > img {
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
-    text-align: center;
+    text-align: none;
   }
 }
 
@@ -318,7 +318,7 @@ p > img {
   text-align: left;
 
   @include mobile {
-    text-align: center;
+    text-align: none;
   }
 }
 
@@ -614,7 +614,7 @@ Modules - reusable parts of our design
 
 #gh-latest{
     font-size: 16px;
-    text-align: center;		
+    text-align: none;		
 }
 
 .text-link {
@@ -635,7 +635,7 @@ Modules - reusable parts of our design
   overflow: hidden;
   max-width: 270px;
   border-radius: 4px;
-  text-align: center;
+  text-align: none;
   border: dashed 1px #e6e6e6;
   background-color: hsl(0, 0%, 98%);
   font-size: var(--font-size);
@@ -788,7 +788,7 @@ Modules - reusable parts of our design
 .tinyletterForm {
   border: 1px solid #ccc;
   padding: 3px;
-  text-align: center;
+  text-align: none;
   background: #ececec;
   margin: 8px;
   border-radius: 5px;
