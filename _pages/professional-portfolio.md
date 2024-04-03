@@ -22,7 +22,7 @@ While I can't discuss much about what I worked on at Meta due to NDAs, I am able
 
 ### ForgeFX
 
-The work I provided at [ForgeFX](https://forgefx.com/) included aspects of two AR training devices for the military. The follow showcases those applications.
+The work I provided at [ForgeFX](https://forgefx.com/) included aspects of two AR training devices for the military. The following showcases those applications.
 
 [Augmented Reality Device Training Simulators for Enhanced Warfare Training](https://forgefx.com/simulation-projects/augmented-reality-device-training-simulators/)
 
