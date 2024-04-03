@@ -24,6 +24,8 @@ The work I provided at ForgeFX included aspects of two AR training devices for t
 
 During my time at Karuna Labs I helped completely rebuild their clinical and home applications from the ground up. What I contributed spanned across all aspects of the Unity3D Engine, as well as some backend contributions using the Django framework.
 
-<iframe src="https://player.vimeo.com/video/316010261?h=43e424808e" style="border:none;overflow:hidden;display:block" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Pcp8aIPzag?si=85AzTmOI1IZFo0N1" style="border:none;overflow:hidden;display:block" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/316010261?h=43e424808e" style="border:none;overflow:hidden;display:block" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>  
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Pcp8aIPzag?si=85AzTmOI1IZFo0N1" style="border:none;overflow:hidden;display:block" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+  
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/344920663?h=d9abcccf82" width="640" height="360" style="border:none;overflow:hidden;display:block" frameborder="0" allowfullscreen></iframe>
