@@ -4,8 +4,6 @@ title: Reality Labs Research
 permalink: /portfolio/reality-labs-research/
 ---
 
-# [Meta - Reality Labs Research](https://research.facebook.com/)
-
 #### Location: Redmond, WA  
 #### Time Frame: September 2021 - September 2023  
 
