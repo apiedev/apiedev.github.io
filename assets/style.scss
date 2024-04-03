@@ -218,8 +218,13 @@ img {
   max-width: 100%;
 }
 
+.shields {
+  text-align: center;
+}
+
 .shields > p {
-  display: inline-flex;
+  display: flex;
+  justify-content: center;
   text-align: center;
   margin: auto;
 }
