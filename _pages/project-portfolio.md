@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
+title: Project Portfolio
+permalink: /project-portfolio/
 ---
 
 ## Orcid Research
@@ -19,7 +19,7 @@ While I can't discuss much about what I worked on at Meta due to NDAs, I am able
 
 ## ForgeFX
 
-The work I provided at ForgeFX included aspects of two AR training devices for the military. The follow showcases those applications.
+The work I provided at ["ForgeFX"](https://forgefx.com/) included aspects of two AR training devices for the military. The follow showcases those applications.
 
 ["Augmented Reality Device Training Simulators for Enhanced Warfare Training"](https://forgefx.com/simulation-projects/augmented-reality-device-training-simulators/)
 
@@ -27,10 +27,6 @@ The work I provided at ForgeFX included aspects of two AR training devices for t
 
 ## Karuna Labs
 
-During my time at Karuna Labs I helped completely rebuild their clinical and home applications from the ground up. What I contributed spanned across all aspects of the Unity3D Engine, as well as some backend contributions using the Django framework.
-
-<iframe src="https://player.vimeo.com/video/316010261?h=43e424808e" style="border:none;overflow:hidden;display:block" width="700" height="394" frameborder="1" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>  
-  
-<iframe width="700" height="394" src="https://www.youtube.com/embed/8Pcp8aIPzag?si=85AzTmOI1IZFo0N1" style="border:none;overflow:hidden;display:block" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
+During my time at ["Karuna Labs"](https://www.karunalabs.com/) I helped completely rebuild their clinical and home applications from the ground up. What I contributed spanned across all aspects of the ["Unity3D Engine"](https://unity.com/), as well as some backend contributions using the ["Django Framework."](https://www.djangoproject.com/)  
   
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/344920663?h=d9abcccf82" width="700" height="394" style="border:none;overflow:hidden;display:block" frameborder="1" allowfullscreen></iframe>
