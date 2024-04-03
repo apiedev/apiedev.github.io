@@ -7,5 +7,5 @@ permalink: /about/
 ## Resume
 
 <div class="shields">
-    <object class="pdf" data="https://apie.dev/pdfs/April24AlecPierceResume.pdf" width="100%" height="100%">
+    <object class="pdf" data="https://apie.dev/pdfs/April24AlecPierceResume.pdf" width="100%" height="600px">
 </div>
