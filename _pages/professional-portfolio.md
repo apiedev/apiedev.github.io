@@ -12,7 +12,7 @@ To view my side-project portfolio, [click here.](https://apie.dev/project-portfo
 [Orcid ID: 0000-0002-0781-7959](https://orcid.org/0000-0002-0781-7959)  
 [Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality](https://dl.acm.org/doi/10.1145/3581641.3584072)
 
-### Reality Labs Research
+### [Reality Labs Research](https://apie.dev/portfolio/reality-labs-research)
 
 While I can't discuss much about what I worked on at Meta due to NDAs, I am able to point to articles that involved or were influenced by my work. More links and videos will appear as more is released over time.
 
