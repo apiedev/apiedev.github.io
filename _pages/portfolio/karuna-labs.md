@@ -6,7 +6,7 @@ permalink: /portfolio/karuna-labs/
 
 <center style="margin-bottom: 20px">
 <b>Location:</b> San Francisco, CA<br>
-<b>Time Frame:</b> Aug 28, 2018 - October 28, 2020  
+<b>Time Frame:</b> Aug 28, 2018 - Oct 28, 2020  
 </center>  
 
 <div class="shields" markdown=1>
@@ -34,6 +34,6 @@ Along with the core elements of the application being built out, all of the juni
 
 #### Third Showcase Of Some Exercise Examples
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RxvDt4HkSBk?si=CDwAb-mwbBKuLakW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/RxvDt4HkSBk?si=CDwAb-mwbBKuLakW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Before parting from Karuna Labs, I did some work on the backend data collection systems that utilized the [Django Python Framework.](https://www.djangoproject.com/) Although what I learned from that was very minimal.

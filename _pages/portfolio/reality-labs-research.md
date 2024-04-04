@@ -22,7 +22,7 @@ permalink: /portfolio/reality-labs-research/
 </div>
 
 <div class="shields" markdown=1>
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </div>
 
 <p>The majority of my work done for RL-R is currently under NDA. As more publications, patents, and hardware is released, I'll be adding it to this portfolio. For the time being, the following is all I can share.</p>  
