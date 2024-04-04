@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pullquotes
+title:  FlipperZero - Thoughts
 categories: [FlipperZero,Hacking,Security]
 excerpt: The FlipperZero has been gaining the attention of many security enthusiasts and politicians alike. Many see if as a great tool for penetration testing and finding vulnerabilities in your every day life, while others see it as a threat to society. Here is what I've discovered with mine.
 ---
