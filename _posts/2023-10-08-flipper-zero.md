@@ -14,11 +14,11 @@ Unfortunately this never worked. Either the FlipperZero sends a very weak IR sig
 
 The bluetooth functionality can emulate multiple devices out of the box, but nothing that could cause harm. Bluetooth keyboards, mice, and controllers were a few that offered very janky control.
 
-The rest I wasn't able to immediately explore, but upon reading up on the capabilities, don't see any way it could cause harm immediately out of the box.
+The rest I wasn't able to immediately explore, but upon reading the capabilities, don't see any way it could cause harm immediately out of the box.
 
 ### Why are people fearful?
 
-The strength of the FlipperZero comes with its GPIO and scripting capabilities. Put in the hands of someone that knows what their doing and has intention, it can become a device that make cracking security measures and networks a walk in the park. 
+The strength of the FlipperZero comes with its GPIO and scripting capabilities. Put in the hands of someone that knows what they're doing and has intention, it can become a device that make cracking security measures and networks a walk in the park. 
 
 Owners of the FlipperZero can write scripts within C to do virtually anything using the devices onboard functionality. Here is a great video from a pentesting expert showing off its capabilities.
 
