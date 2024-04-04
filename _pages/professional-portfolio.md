@@ -28,8 +28,14 @@ The work I provided at [ForgeFX](https://forgefx.com/) included aspects of two A
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/2DuiW7JGlzg?si=kTGKWEkQbMedhBzh" style="border:none;overflow:hidden;display:block" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Karuna Labs
+### [Karuna Labs](https://apie.dev/portfolio/karuna-labs)
 
 During my time at [Karuna Labs](https://www.karunalabs.com/) I helped completely rebuild their clinical and home applications from the ground up. What I contributed spanned across all aspects of the [Unity3D Engine](https://unity.com/), as well as some backend contributions using the [Django Framework.](https://www.djangoproject.com/)  
   
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/344920663?h=d9abcccf82" width="700" height="394" style="border:none;overflow:hidden;display:block" frameborder="1" allowfullscreen></iframe>
+
+### [Vixonix Studios](https://apie.dev/portfolio/vixonix-studios)
+
+Vixonix Studios was a gaming studio startup that I founded with my younger brother and three college friends. The goal of the studio was to put out a cooperative VR RPG onto Steam; which was accomplished in October of 2017. More details about this endeavor can be read by clicking on title of this section.
+
+<iframe width="700" height="394" src="https://www.youtube.com/embed/DfAPkph9YMQ?si=S3gJm3FPbqDRsT33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
