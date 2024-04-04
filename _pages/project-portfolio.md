@@ -6,7 +6,7 @@ permalink: /project-portfolio/
 
 The following is a brief overview of my side-project work. Click on each header for more detail.  
 
-### PepperCast
+### [PepperCast](https://apie.dev/portfolio/peppercast/)
 
 Helped design and build a backend framework to allow the relay of 3D motion data via social VR SDKs to concert venues across the US.
 
