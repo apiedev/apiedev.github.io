@@ -22,7 +22,7 @@ The strength of the FlipperZero comes with its GPIO and scripting capabilities. 
 
 Owners of the FlipperZero can write scripts within C to do virtually anything using the devices onboard functionality. Here is a great video from a pentesting expert showing off its capabilities.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zcshg_2eNJE?si=6sPzkKipavtmB3pe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="493" src="https://www.youtube.com/embed/zcshg_2eNJE?si=6sPzkKipavtmB3pe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Should you get one?
 
