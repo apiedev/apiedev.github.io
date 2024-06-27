@@ -32,7 +32,7 @@ The work I provided at [ForgeFX](https://forgefx.com/) included aspects of two A
 
 During my time at [Karuna Labs](https://www.karunalabs.com/) I helped completely rebuild their clinical and home applications from the ground up. What I contributed spanned across all aspects of the [Unity3D Engine](https://unity.com/), as well as some backend contributions using the [Django Framework.](https://www.djangoproject.com/)  
   
-<iframe title="youtube-player" src="https://www.youtube.com/embed/8Pcp8aIPzag?si=I10qrgrfvD0dJaYH" width="700" height="394" style="border:none;overflow:hidden;display:block" frameborder="1" allowfullscreen></iframe>
+<iframe title="youtube-player" src="https://www.youtube.com/embed/8Pcp8aIPzag?si=ChQVBYWA515P2W3F" width="700" height="394" style="border:none;overflow:hidden;display:block" frameborder="1" allowfullscreen></iframe>
 
 ### [Vixonix Studios](https://apie.dev/portfolio/vixonix-studios)
 
